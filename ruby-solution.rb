@@ -1,25 +1,6 @@
 require 'net/http'
 require 'json'
 require 'date'
-# california_data = []
-# data["features"].each do |feature|
-#    if feature["properties"]["place"].match(/CA|California/)
-#       california_data.append(feature)
-#    end
-# end
-
-# one liner
-   # matches = data["features"].select{ |feature|
-   #    feature["properties"]["place"].match(/CA|California/)
-   # }
-
-   # matches.each do |event|
-   #    result_string += Time.at(event["properties"]["time"] / 1000).utc.to_datetime.to_s
-   #    result_string += " | " + event["properties"]["place"] + " | "
-   #    result_string += "Magnitude: " + event["properties"]["mag"].to_s + "\n"
-   # end
-#
-
 # readable solution
 # returns a string containing the desired output
 def get_california_data(data)
@@ -34,7 +15,7 @@ def get_california_data(data)
 
          # filter only needed information
          california_data.append({
-            time: feature["properties"]["time"] / 1000,
+            time: feature["properties"]["time"] / 1000, 
             place: feature["properties"]["place"],
             mag: feature["properties"]["mag"].to_s
          })
@@ -59,8 +40,14 @@ url = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojso
 uri = URI(url)
 
 # fetch JSON data
-response = Net::HTTP.get(uri)
-data = JSON.parse(response)
+response = Net::HTTP.get_response(uri)
+
+if response.code == '200'
+   data = JSON.parse(response.body)
+else
+   puts "Failed to fetch data"
+   exit(1)
+end
 
 # log results to file
 file = File.open("ruby-output.txt", "w")
