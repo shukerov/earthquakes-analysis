@@ -26,8 +26,9 @@ function generateOutput() {
       const time = new Date(feature.properties.time);
       return `${time.toISOString()} |\
               ${feature.properties.place} |\
-              Magnitude: ${feature.properties.mag}`;}).join('\n');
-   textArea.innerHTML = outputString;
+              Magnitude: ${feature.properties.mag}`;
+   }).join('\n');
+   textArea.innerHTML = outputString + '\n';
 }
 
 // downloads the generated output
@@ -35,7 +36,7 @@ function downLoadOutput() {
    var outputText = document.getElementById('output').innerText;
    var textToSaveAsBlob = new Blob([outputText], {type:"text/plain"});
    var textToSaveAsURL = window.URL.createObjectURL(textToSaveAsBlob);
-   downloadBtn.download = "output.txt"
+   downloadBtn.download = "js-output.txt"
    downloadBtn.href = textToSaveAsURL;
 }
 
