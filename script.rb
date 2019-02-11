@@ -1,11 +1,11 @@
 require 'net/http'
 require 'json'
 require 'date'
-# readable solution
+
 # returns a string containing the desired output
 def get_california_data(data)
-   result_string = ""
-   california_data = []
+   result_string = "" # output string 
+   california_data = [] # array of hashes containing relevant data 
 
    # select California data points, and filter the needed information
    data["features"].each do |feature|
@@ -13,7 +13,7 @@ def get_california_data(data)
       # earthquake is in California
       if feature["properties"]["place"].match(/CA|California/)
 
-         # filter only needed information
+         # return a hash with relevant information
          california_data.append({
             time: feature["properties"]["time"] / 1000, 
             place: feature["properties"]["place"],
@@ -22,15 +22,14 @@ def get_california_data(data)
       end
    end
 
-   # sort the data
+   # sort the data by time
    california_data.sort_by! { |h| h[:time] }
 
-   # add to result string
-   result_string = california_data.map{ |dp| 
-      Time.at(dp[:time]).utc.to_datetime.to_s + " | " +
-      dp[:place] + " | Magnitude: " +
-      dp[:mag]
-   }.join("\n")
+   # add data points to result string in requested format
+   california_data.each do |dp|
+      time = Time.at(dp[:time]).utc.to_datetime.to_s
+      result_string += time + " | " + dp[:place] + " | Magnitude: " + dp[:mag] + "\n"
+   end
 
    return result_string
 end
