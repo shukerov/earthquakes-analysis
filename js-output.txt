@@ -1,0 +1,554 @@
+2019-02-04T02:01:28.470Z | 14km NW of Toms Place, CA | Magnitude: 3
+2019-02-04T02:17:13.830Z | 16km WSW of Toms Place, CA | Magnitude: 0.93
+2019-02-04T02:53:34.170Z | 22km ENE of Little Lake, CA | Magnitude: 0.73
+2019-02-04T03:05:07.650Z | 14km NW of Toms Place, CA | Magnitude: 0.7
+2019-02-04T03:26:46.550Z | 14km NW of Toms Place, CA | Magnitude: 1.18
+2019-02-04T03:42:21.320Z | 17km SW of Toms Place, CA | Magnitude: 1.5
+2019-02-04T04:06:23.160Z | 18km W of Petrolia, CA | Magnitude: 2.53
+2019-02-04T04:14:52.520Z | 8km ENE of San Diego Country Estates, CA | Magnitude: 2.16
+2019-02-04T04:34:47.450Z | 18km NW of Parkfield, CA | Magnitude: 0.93
+2019-02-04T05:19:35.450Z | 22km ENE of Little Lake, CA | Magnitude: 0.66
+2019-02-04T05:40:09.870Z | 10km NE of Aguanga, CA | Magnitude: 0.5
+2019-02-04T05:48:57.190Z | 8km NE of Aguanga, CA | Magnitude: 1.08
+2019-02-04T06:05:00.890Z | 7km WNW of The Geysers, CA | Magnitude: 0.56
+2019-02-04T08:13:50.890Z | 12km NNW of Borrego Springs, CA | Magnitude: 1.07
+2019-02-04T09:10:54.020Z | 17km NE of Coachella, CA | Magnitude: 1.38
+2019-02-04T09:51:26.580Z | 4km N of Vine Hill, CA | Magnitude: 1.54
+2019-02-04T10:20:51.000Z | 17km ESE of Anza, CA | Magnitude: 0.69
+2019-02-04T11:01:07.680Z | 9km NE of Aguanga, CA | Magnitude: 1.05
+2019-02-04T11:38:49.570Z | 5km NW of The Geysers, CA | Magnitude: 0.89
+2019-02-04T11:58:38.650Z | 14km E of Mammoth Lakes, CA | Magnitude: 0.83
+2019-02-04T12:34:57.590Z | 10km NE of Aguanga, CA | Magnitude: 1.07
+2019-02-04T12:39:28.690Z | 10km NE of Aguanga, CA | Magnitude: 0.98
+2019-02-04T12:52:36.210Z | 17km W of Petrolia, CA | Magnitude: 2.51
+2019-02-04T13:46:53.400Z | 7km WNW of The Geysers, CA | Magnitude: 0.56
+2019-02-04T14:07:45.449Z | 29km ENE of Bridgeport, California | Magnitude: 1.7
+2019-02-04T15:03:03.990Z | 11km NE of Borrego Springs, CA | Magnitude: 1.57
+2019-02-04T15:17:51.440Z | 6km W of Cobb, CA | Magnitude: 0.57
+2019-02-04T16:00:40.340Z | 7km NW of Anza, CA | Magnitude: 0.46
+2019-02-04T16:12:47.740Z | 20km ESE of Anza, CA | Magnitude: 0.67
+2019-02-04T16:54:50.480Z | 2km ESE of Berkeley, CA | Magnitude: 1.25
+2019-02-04T17:12:53.010Z | 6km SSE of Mentone, CA | Magnitude: 0.9
+2019-02-04T17:30:55.440Z | 5km E of Pine Hills, CA | Magnitude: 2.4
+2019-02-04T18:16:28.360Z | 17km ESE of Julian, CA | Magnitude: 1.88
+2019-02-04T18:19:20.900Z | 5km E of Pine Hills, CA | Magnitude: 3.05
+2019-02-04T18:55:42.650Z | 7km WNW of Cobb, CA | Magnitude: 0.56
+2019-02-04T19:07:00.440Z | 9km N of Banning, CA | Magnitude: 1.29
+2019-02-04T20:39:49.410Z | 22km ENE of Little Lake, CA | Magnitude: 1.04
+2019-02-04T20:58:05.510Z | 5km NW of The Geysers, CA | Magnitude: 0.57
+2019-02-04T21:21:01.240Z | 8km SSE of Home Gardens, CA | Magnitude: 1.13
+2019-02-04T21:29:05.330Z | 3km S of Beaumont, CA | Magnitude: 0.88
+2019-02-04T21:44:14.360Z | 10km NW of The Geysers, CA | Magnitude: 1.14
+2019-02-04T21:55:18.420Z | 8km W of Cobb, CA | Magnitude: 1.91
+2019-02-04T21:57:13.270Z | 8km NW of The Geysers, CA | Magnitude: 0.89
+2019-02-04T23:07:42.850Z | 6km SSE of Viola, CA | Magnitude: 0.17
+2019-02-04T23:41:14.520Z | 14km W of Petrolia, CA | Magnitude: 2.3
+2019-02-05T01:01:48.640Z | 7km WNW of The Geysers, CA | Magnitude: 2.26
+2019-02-05T01:06:12.460Z | 13km E of Yountville, CA | Magnitude: 1.84
+2019-02-05T01:37:07.825Z | 7km SSE of Portola, California | Magnitude: 0.7
+2019-02-05T01:44:57.970Z | 12km NE of Little Lake, CA | Magnitude: 0.72
+2019-02-05T01:52:27.650Z | 17km ESE of Julian, CA | Magnitude: 1.55
+2019-02-05T01:52:29.430Z | 17km ESE of Julian, CA | Magnitude: 1.49
+2019-02-05T01:54:52.220Z | 7km WNW of The Geysers, CA | Magnitude: 1.36
+2019-02-05T02:05:53.400Z | 4km E of Brea, CA | Magnitude: 1.66
+2019-02-05T02:18:51.920Z | 8km WNW of Little Lake, CA | Magnitude: 0.54
+2019-02-05T02:23:02.950Z | 2km NNW of The Geysers, CA | Magnitude: 1.42
+2019-02-05T02:36:11.470Z | 6km NNE of Banning, CA | Magnitude: 0.33
+2019-02-05T02:41:13.760Z | 34km NNW of Alder Springs, CA | Magnitude: 1.49
+2019-02-05T03:38:02.710Z | 15km WSW of Toms Place, CA | Magnitude: 0.9
+2019-02-05T03:39:31.730Z | 7km WNW of The Geysers, CA | Magnitude: 1.09
+2019-02-05T04:01:20.360Z | 9km NE of Aguanga, CA | Magnitude: 1.07
+2019-02-05T04:19:56.180Z | 15km W of Petrolia, CA | Magnitude: 2.3
+2019-02-05T04:48:06.950Z | 2km SE of Lake Henshaw, CA | Magnitude: 2.01
+2019-02-05T05:06:03.200Z | 4km ESE of Lake Henshaw, CA | Magnitude: 0.96
+2019-02-05T06:17:53.720Z | 7km NW of The Geysers, CA | Magnitude: 1.95
+2019-02-05T06:39:23.140Z | 8km ENE of Aguanga, CA | Magnitude: 0.85
+2019-02-05T07:56:49.270Z | 7km WNW of The Geysers, CA | Magnitude: 1.3
+2019-02-05T08:41:40.030Z | 10km N of Cabazon, CA | Magnitude: 0.94
+2019-02-05T09:45:02.900Z | 9km NE of Aguanga, CA | Magnitude: 0.87
+2019-02-05T09:49:56.540Z | 2km ESE of The Geysers, CA | Magnitude: 1.76
+2019-02-05T10:12:55.000Z | 5km WNW of Desert Hot Springs, CA | Magnitude: 0.88
+2019-02-05T10:27:08.200Z | 7km WNW of The Geysers, CA | Magnitude: 1
+2019-02-05T11:25:51.230Z | 4km SE of Loma Linda, CA | Magnitude: 1.49
+2019-02-05T12:19:54.220Z | 17km SSE of Bodfish, CA | Magnitude: 1.84
+2019-02-05T13:07:19.020Z | 6km WSW of Morongo Valley, CA | Magnitude: 1.76
+2019-02-05T13:08:10.290Z | 5km WSW of Idyllwild, CA | Magnitude: 1.02
+2019-02-05T13:57:51.600Z | 14km W of Toms Place, CA | Magnitude: 0.62
+2019-02-05T14:25:33.320Z | 10km NE of Aguanga, CA | Magnitude: 0.99
+2019-02-05T15:55:21.580Z | 8km NE of Aguanga, CA | Magnitude: 0.67
+2019-02-05T16:07:49.200Z | 18km ESE of Anza, CA | Magnitude: 0.8
+2019-02-05T16:14:48.080Z | 17km ESE of Julian, CA | Magnitude: 1
+2019-02-05T17:10:39.700Z | 16km NW of Parkfield, CA | Magnitude: 0.49
+2019-02-05T17:19:34.630Z | 8km NE of Aguanga, CA | Magnitude: 0.9
+2019-02-05T17:48:00.460Z | 4km E of Mammoth Lakes, CA | Magnitude: 0.89
+2019-02-05T17:51:32.100Z | 4km E of Mammoth Lakes, CA | Magnitude: 0.67
+2019-02-05T19:01:22.140Z | 2km SSW of Cobb, CA | Magnitude: 0.95
+2019-02-05T19:13:28.210Z | 21km ESE of Anza, CA | Magnitude: 0.35
+2019-02-05T20:25:36.690Z | 9km ENE of Aguanga, CA | Magnitude: 0.67
+2019-02-05T20:31:52.550Z | 4km E of Temecula, CA | Magnitude: 0.28
+2019-02-05T20:35:30.210Z | 10km S of Tres Pinos, CA | Magnitude: 1.69
+2019-02-05T20:44:50.690Z | 8km ENE of Aguanga, CA | Magnitude: 1.68
+2019-02-05T20:46:41.790Z | 6km E of Mammoth Lakes, CA | Magnitude: 1.17
+2019-02-05T21:03:51.060Z | 4km WSW of Colma, CA | Magnitude: 1.57
+2019-02-05T21:32:49.070Z | 23km ENE of Arvin, CA | Magnitude: 1.84
+2019-02-05T22:01:42.710Z | 22km ENE of Little Lake, CA | Magnitude: 0.87
+2019-02-05T22:12:31.450Z | 10km NE of Aguanga, CA | Magnitude: 1.14
+2019-02-05T22:38:07.170Z | 12km ESE of Anza, CA | Magnitude: 0.84
+2019-02-05T22:55:13.290Z | 6km NNE of Mineral, CA | Magnitude: -0.05
+2019-02-05T23:18:35.380Z | 6km NNE of Mineral, CA | Magnitude: 0.64
+2019-02-06T00:01:46.340Z | 5km NW of Calimesa, CA | Magnitude: 0.96
+2019-02-06T00:23:10.140Z | 5km N of Valle Vista, CA | Magnitude: 0.83
+2019-02-06T00:43:05.230Z | 8km ENE of Aguanga, CA | Magnitude: 1.2
+2019-02-06T00:58:02.620Z | 9km ENE of El Centro, CA | Magnitude: 1.51
+2019-02-06T01:21:13.480Z | 7km S of Brawley, CA | Magnitude: 2.03
+2019-02-06T01:32:44.600Z | 6km WNW of Cobb, CA | Magnitude: 1.21
+2019-02-06T02:16:03.090Z | 10km NE of Aguanga, CA | Magnitude: 0.36
+2019-02-06T02:39:19.220Z | 2km SSE of Loma Linda, CA | Magnitude: 1.72
+2019-02-06T03:14:09.020Z | 4km NNE of Imperial Beach, CA | Magnitude: 1.56
+2019-02-06T04:13:41.570Z | 14km ESE of Anza, CA | Magnitude: 0.85
+2019-02-06T04:55:56.973Z | 13km S of Big Pine, California | Magnitude: 1.3
+2019-02-06T05:12:57.630Z | 4km SE of Loma Linda, CA | Magnitude: 1.07
+2019-02-06T05:36:07.050Z | 7km W of Cobb, CA | Magnitude: 1.01
+2019-02-06T05:45:14.270Z | 16km ESE of Julian, CA | Magnitude: 1.05
+2019-02-06T06:09:55.060Z | 9km ENE of Aguanga, CA | Magnitude: 0.99
+2019-02-06T07:10:07.170Z | 9km NE of Aguanga, CA | Magnitude: 1.62
+2019-02-06T08:57:57.330Z | 4km NNW of The Geysers, CA | Magnitude: 1.52
+2019-02-06T09:10:14.550Z | 6km WSW of Union City, CA | Magnitude: 1.53
+2019-02-06T09:39:17.120Z | 7km NW of Los Olivos, CA | Magnitude: 1.7
+2019-02-06T09:57:36.680Z | 2km ENE of Mammoth Lakes, CA | Magnitude: 0.49
+2019-02-06T10:05:42.760Z | 10km ENE of Mammoth Lakes, CA | Magnitude: 0.49
+2019-02-06T10:40:02.600Z | 14km ESE of Anza, CA | Magnitude: 0.72
+2019-02-06T10:40:15.620Z | 14km ESE of Anza, CA | Magnitude: 0.25
+2019-02-06T11:01:38.110Z | 10km W of Anza, CA | Magnitude: 0.54
+2019-02-06T11:04:07.330Z | 16km ENE of Borrego Springs, CA | Magnitude: 1.89
+2019-02-06T11:20:41.440Z | 10km SSW of Lake Hughes, CA | Magnitude: 1.36
+2019-02-06T11:46:41.780Z | 6km NNW of The Geysers, CA | Magnitude: 1.3
+2019-02-06T12:23:55.610Z | 10km NE of Aguanga, CA | Magnitude: 0.56
+2019-02-06T12:34:54.090Z | 4km ESE of Lytle Creek, CA | Magnitude: 0.75
+2019-02-06T12:49:49.350Z | 15km WSW of Toms Place, CA | Magnitude: 1.45
+2019-02-06T13:03:36.980Z | 6km SSE of Idyllwild, CA | Magnitude: 0.98
+2019-02-06T14:51:50.360Z | 6km SSW of Coso Junction, CA | Magnitude: 0.25
+2019-02-06T15:02:57.230Z | 13km N of Banning, CA | Magnitude: 1.52
+2019-02-06T15:19:10.210Z | 9km NE of Aguanga, CA | Magnitude: 0.53
+2019-02-06T15:19:31.960Z | 18km ESE of Anza, CA | Magnitude: 0.63
+2019-02-06T16:25:35.190Z | 3km ENE of The Geysers, CA | Magnitude: 1.66
+2019-02-06T16:40:21.629Z | 2km ESE of Murphys, California | Magnitude: 1.7
+2019-02-06T16:45:38.780Z | 7km ESE of Valle Vista, CA | Magnitude: 0.85
+2019-02-06T16:51:55.230Z | 8km NE of Aguanga, CA | Magnitude: 1.25
+2019-02-06T17:31:21.174Z | 4km ENE of Truckee, California | Magnitude: 0.5
+2019-02-06T17:33:23.711Z | 3km E of Truckee, California | Magnitude: 0.6
+2019-02-06T18:23:01.570Z | 13km ESE of Blue Lake, CA | Magnitude: 4.39
+2019-02-06T18:35:04.240Z | 14km ESE of Blue Lake, CA | Magnitude: 2.37
+2019-02-06T18:38:11.020Z | 6km NW of The Geysers, CA | Magnitude: 1.32
+2019-02-06T19:00:16.590Z | 16km ESE of Julian, CA | Magnitude: 1.1
+2019-02-06T19:22:23.150Z | 15km NW of Parkfield, CA | Magnitude: 0.7
+2019-02-06T19:52:31.210Z | 23km NW of Tehachapi, CA | Magnitude: 2.46
+2019-02-06T20:13:54.910Z | 9km ENE of Morgan Hill, CA | Magnitude: 1.17
+2019-02-06T21:02:29.240Z | 9km NE of Aguanga, CA | Magnitude: 0.74
+2019-02-06T21:30:56.860Z | 11km NNE of Banning, CA | Magnitude: 1.06
+2019-02-06T22:34:50.300Z | 27km W of Olancha, CA | Magnitude: 1.51
+2019-02-07T00:56:17.090Z | 13km NNE of Mineral, CA | Magnitude: -0.07
+2019-02-07T01:03:11.050Z | 12km W of Ludlow, CA | Magnitude: 1.37
+2019-02-07T01:03:15.360Z | 11km W of Ludlow, CA | Magnitude: 1.68
+2019-02-07T01:09:59.810Z | 13km NNE of Mineral, CA | Magnitude: 0.74
+2019-02-07T01:30:04.350Z | 9km NE of Aguanga, CA | Magnitude: 0.86
+2019-02-07T01:53:24.360Z | 8km SSW of Gorman, CA | Magnitude: 1.62
+2019-02-07T03:19:45.520Z | 5km ENE of Fremont, CA | Magnitude: 1.35
+2019-02-07T03:26:35.950Z | 6km N of Beaumont, CA | Magnitude: 1.08
+2019-02-07T03:27:53.190Z | 10km NE of Coachella, CA | Magnitude: 1.23
+2019-02-07T03:30:30.741Z | 8km S of Westwood, California | Magnitude: 0.7
+2019-02-07T04:15:35.410Z | 10km ESE of Gilroy, CA | Magnitude: 2.37
+2019-02-07T04:17:07.180Z | 10km ESE of Gilroy, CA | Magnitude: 1.13
+2019-02-07T04:35:19.250Z | 9km ESE of Gilroy, CA | Magnitude: 1.56
+2019-02-07T05:11:43.970Z | 12km NE of Little Lake, CA | Magnitude: 0.05
+2019-02-07T05:34:58.360Z | 2km SSE of San Clemente Is. (SE tip), CA | Magnitude: 2.96
+2019-02-07T05:39:34.960Z | 9km NE of Los Alamos, CA | Magnitude: 1.4
+2019-02-07T05:57:03.230Z | 19km ESE of Anza, CA | Magnitude: 0.39
+2019-02-07T06:10:30.650Z | 13km W of Morongo Valley, CA | Magnitude: 0.67
+2019-02-07T06:13:36.180Z | 6km WSW of Mammoth Lakes, CA | Magnitude: 0.77
+2019-02-07T06:28:42.460Z | 24km NE of San Ardo, CA | Magnitude: 1.1
+2019-02-07T06:59:47.610Z | 9km E of Mammoth Lakes, CA | Magnitude: -0.16
+2019-02-07T07:05:07.320Z | 9km ENE of Mammoth Lakes, CA | Magnitude: 0.73
+2019-02-07T07:12:33.290Z | 10km ENE of Mammoth Lakes, CA | Magnitude: 0.18
+2019-02-07T07:16:31.030Z | 12km NE of Barstow, CA | Magnitude: 1.98
+2019-02-07T08:04:14.580Z | 3km SE of Lake Henshaw, CA | Magnitude: 0.71
+2019-02-07T08:14:11.780Z | 16km SW of Manton, CA | Magnitude: 1.18
+2019-02-07T08:24:37.820Z | 11km W of Ludlow, CA | Magnitude: 3.17
+2019-02-07T08:27:13.970Z | 7km SSW of Wilkerson, CA | Magnitude: 1.74
+2019-02-07T08:30:03.180Z | 11km W of Ludlow, CA | Magnitude: 2.02
+2019-02-07T08:31:32.870Z | 12km W of Ludlow, CA | Magnitude: 1.3
+2019-02-07T08:39:36.180Z | 11km W of Ludlow, CA | Magnitude: 1.75
+2019-02-07T08:41:32.618Z | 11km NNW of Big Pine, California | Magnitude: 1.4
+2019-02-07T08:42:14.110Z | 11km W of Ludlow, CA | Magnitude: 1.43
+2019-02-07T09:00:53.300Z | 12km W of Ludlow, CA | Magnitude: 1.31
+2019-02-07T09:10:28.780Z | 12km W of Ludlow, CA | Magnitude: 1.71
+2019-02-07T09:27:16.440Z | 12km W of Ludlow, CA | Magnitude: 1.41
+2019-02-07T10:25:56.340Z | 11km ENE of Coso Junction, CA | Magnitude: 0.44
+2019-02-07T10:29:34.350Z | 28km NW of Desert Center, CA | Magnitude: 1.6
+2019-02-07T10:46:54.680Z | 15km N of Warner Springs, CA | Magnitude: 0.46
+2019-02-07T11:58:22.750Z | 2km ENE of Pinnacles, CA | Magnitude: 1.78
+2019-02-07T12:35:15.640Z | 15km SE of Anza, CA | Magnitude: 0.34
+2019-02-07T12:37:08.630Z | 12km ESE of Anza, CA | Magnitude: 0.49
+2019-02-07T12:38:07.330Z | 5km WNW of The Geysers, CA | Magnitude: 1.08
+2019-02-07T12:42:39.230Z | 7km NW of Anza, CA | Magnitude: 0.84
+2019-02-07T12:55:49.600Z | 6km WNW of Anza, CA | Magnitude: 0.64
+2019-02-07T13:25:08.440Z | 9km NE of Milpitas, CA | Magnitude: 1.77
+2019-02-07T13:33:15.400Z | 6km ESE of Pinnacles, CA | Magnitude: 1.58
+2019-02-07T13:51:36.040Z | 9km NE of Aguanga, CA | Magnitude: 0.32
+2019-02-07T13:54:39.160Z | 14km NNE of Mineral, CA | Magnitude: -0.08
+2019-02-07T13:54:53.320Z | 5km NW of The Geysers, CA | Magnitude: 0.61
+2019-02-07T14:13:07.550Z | 16km ESE of Julian, CA | Magnitude: 0.9
+2019-02-07T14:16:39.280Z | 11km W of Ludlow, CA | Magnitude: 2.68
+2019-02-07T14:21:33.760Z | 9km NE of Aguanga, CA | Magnitude: 1.4
+2019-02-07T14:23:07.070Z | 16km SSE of Tres Pinos, CA | Magnitude: 1.65
+2019-02-07T14:25:25.840Z | 11km W of Ludlow, CA | Magnitude: 1.95
+2019-02-07T14:40:30.790Z | 9km NE of Markleeville, CA | Magnitude: 2.58
+2019-02-07T14:42:26.520Z | 5km S of Banning, CA | Magnitude: 0.5
+2019-02-07T14:44:38.800Z | 9km NE of Aguanga, CA | Magnitude: 1.53
+2019-02-07T15:20:02.710Z | 18km S of La Quinta, CA | Magnitude: 1.45
+2019-02-07T15:29:35.067Z | 38km NW of Bridgeport, California | Magnitude: 0.2
+2019-02-07T15:32:39.410Z | 7km NW of Anza, CA | Magnitude: 1.38
+2019-02-07T15:40:45.070Z | 8km SW of Niland, CA | Magnitude: 1.71
+2019-02-07T15:44:57.500Z | 8km NE of Aguanga, CA | Magnitude: 1.23
+2019-02-07T15:56:50.540Z | 12km W of Ludlow, CA | Magnitude: 2.4
+2019-02-07T16:00:37.410Z | 7km NW of Anza, CA | Magnitude: 0.16
+2019-02-07T16:14:55.280Z | 12km W of Ludlow, CA | Magnitude: 3.46
+2019-02-07T16:16:43.260Z | 12km W of Ludlow, CA | Magnitude: 1.79
+2019-02-07T16:16:57.830Z | 12km W of Ludlow, CA | Magnitude: 2.17
+2019-02-07T16:29:12.060Z | 12km W of Ludlow, CA | Magnitude: 2.23
+2019-02-07T16:31:08.660Z | 2km S of Palomar Observatory, CA | Magnitude: 0.88
+2019-02-07T16:37:40.440Z | 4km ENE of Hawthorne, CA | Magnitude: 1.49
+2019-02-07T16:41:24.540Z | 12km W of Ludlow, CA | Magnitude: 3.96
+2019-02-07T16:44:20.170Z | 12km W of Ludlow, CA | Magnitude: 1.86
+2019-02-07T16:44:33.160Z | 12km W of Ludlow, CA | Magnitude: 2.68
+2019-02-07T16:48:20.640Z | 12km W of Ludlow, CA | Magnitude: 2.02
+2019-02-07T16:48:20.710Z | 7km NW of Anza, CA | Magnitude: 0.24
+2019-02-07T16:49:06.490Z | 12km W of Ludlow, CA | Magnitude: 2.24
+2019-02-07T16:56:30.930Z | 12km W of Ludlow, CA | Magnitude: 2.42
+2019-02-07T16:58:04.060Z | 11km W of Ludlow, CA | Magnitude: 1.99
+2019-02-07T16:58:18.460Z | 12km W of Ludlow, CA | Magnitude: 1.61
+2019-02-07T17:01:20.370Z | 12km W of Ludlow, CA | Magnitude: 1.66
+2019-02-07T17:03:43.560Z | 12km W of Ludlow, CA | Magnitude: 1.06
+2019-02-07T17:04:00.640Z | 12km W of Ludlow, CA | Magnitude: 1.7
+2019-02-07T17:09:42.380Z | 6km NW of The Geysers, CA | Magnitude: 1.71
+2019-02-07T17:09:58.890Z | 12km WSW of Ludlow, CA | Magnitude: 2.09
+2019-02-07T17:12:16.260Z | 12km W of Ludlow, CA | Magnitude: 1.02
+2019-02-07T17:12:28.520Z | 12km W of Ludlow, CA | Magnitude: 1.73
+2019-02-07T17:22:28.530Z | 12km W of Ludlow, CA | Magnitude: 1.46
+2019-02-07T17:35:28.760Z | 12km W of Ludlow, CA | Magnitude: 1.55
+2019-02-07T17:38:30.020Z | 11km W of Ludlow, CA | Magnitude: 1.81
+2019-02-07T17:54:00.050Z | 12km W of Ludlow, CA | Magnitude: 1.11
+2019-02-07T18:02:03.010Z | 12km W of Ludlow, CA | Magnitude: 1.95
+2019-02-07T18:02:40.700Z | 12km W of Ludlow, CA | Magnitude: 1.4
+2019-02-07T18:03:36.150Z | 12km W of Ludlow, CA | Magnitude: 1.7
+2019-02-07T18:05:39.460Z | 9km NE of Aguanga, CA | Magnitude: 0.5
+2019-02-07T18:25:06.020Z | 14km NNE of Mineral, CA | Magnitude: 0.09
+2019-02-07T18:26:31.280Z | 12km WSW of Ludlow, CA | Magnitude: 1.33
+2019-02-07T18:34:22.390Z | 12km W of Ludlow, CA | Magnitude: 1.55
+2019-02-07T18:35:43.750Z | 12km W of Ludlow, CA | Magnitude: 1.66
+2019-02-07T18:39:02.200Z | 12km WSW of Ludlow, CA | Magnitude: 1.61
+2019-02-07T18:40:30.140Z | 12km W of Ludlow, CA | Magnitude: 1.02
+2019-02-07T18:44:35.900Z | 12km W of Ludlow, CA | Magnitude: 1.54
+2019-02-07T19:11:57.140Z | 10km N of North Shore, CA | Magnitude: 1.28
+2019-02-07T19:13:29.940Z | 12km WSW of Ludlow, CA | Magnitude: 1.95
+2019-02-07T19:29:13.410Z | 9km ENE of Aguanga, CA | Magnitude: 0.53
+2019-02-07T19:32:53.360Z | 11km W of Ludlow, CA | Magnitude: 2.85
+2019-02-07T19:47:08.520Z | 24km W of Ludlow, CA | Magnitude: 1.88
+2019-02-07T19:50:36.930Z | 12km W of Ludlow, CA | Magnitude: 1.7
+2019-02-07T19:51:39.814Z | 29km ENE of Bridgeport, California | Magnitude: 0.9
+2019-02-07T20:13:37.120Z | 12km WSW of Ludlow, CA | Magnitude: 2.2
+2019-02-07T20:14:39.410Z | 12km WSW of Ludlow, CA | Magnitude: 1.65
+2019-02-07T20:21:27.930Z | 11km W of Ludlow, CA | Magnitude: 1.87
+2019-02-07T20:32:27.150Z | 9km NE of Aguanga, CA | Magnitude: 1.2
+2019-02-07T20:40:28.030Z | 13km NNE of Mineral, CA | Magnitude: 0.06
+2019-02-07T21:00:26.770Z | 7km NNW of La Mesa, CA | Magnitude: 0.83
+2019-02-07T21:07:13.124Z | 39km ENE of Lone Pine, California | Magnitude: 1.1
+2019-02-07T21:13:47.250Z | 10km NE of Aguanga, CA | Magnitude: 0.42
+2019-02-07T21:15:46.130Z | 12km W of Toms Place, CA | Magnitude: 0.57
+2019-02-07T21:16:59.190Z | 12km ENE of Cabazon, CA | Magnitude: 1.01
+2019-02-07T21:21:14.360Z | 10km WNW of The Geysers, CA | Magnitude: 1.02
+2019-02-07T21:57:19.890Z | 12km W of Ludlow, CA | Magnitude: 1.74
+2019-02-07T22:26:20.480Z | 1km SW of Lake Henshaw, CA | Magnitude: 0.58
+2019-02-07T22:27:05.270Z | 6km NNW of The Geysers, CA | Magnitude: 0.86
+2019-02-07T22:31:20.710Z | 6km W of Cobb, CA | Magnitude: 1.38
+2019-02-07T23:18:00.470Z | 12km N of Borrego Springs, CA | Magnitude: 0.92
+2019-02-07T23:23:53.250Z | 18km ESE of Arvin, CA | Magnitude: 1.14
+2019-02-07T23:33:12.820Z | 30km W of Hayfork, CA | Magnitude: 1.73
+2019-02-07T23:34:06.470Z | 11km SE of Pinnacles, CA | Magnitude: 1.92
+2019-02-08T00:03:37.600Z | 11km WSW of Ludlow, CA | Magnitude: 2.36
+2019-02-08T00:06:51.850Z | 11km WSW of Ludlow, CA | Magnitude: 2.45
+2019-02-08T00:29:25.260Z | 13km ESE of Blue Lake, CA | Magnitude: 1.62
+2019-02-08T00:35:46.790Z | 15km SW of Toms Place, CA | Magnitude: 1.7
+2019-02-08T00:46:38.300Z | 9km NE of Aguanga, CA | Magnitude: 0.5
+2019-02-08T00:49:41.200Z | 11km WSW of Ludlow, CA | Magnitude: 2.46
+2019-02-08T00:49:51.570Z | 10km WNW of The Geysers, CA | Magnitude: 0.74
+2019-02-08T01:02:07.250Z | 13km NNE of Mineral, CA | Magnitude: 0.61
+2019-02-08T01:25:41.330Z | 10km NE of Aguanga, CA | Magnitude: 0.44
+2019-02-08T01:52:31.640Z | 11km WSW of Ludlow, CA | Magnitude: 2.73
+2019-02-08T01:55:38.430Z | 11km WSW of Ludlow, CA | Magnitude: 1.53
+2019-02-08T01:56:29.700Z | 11km WSW of Ludlow, CA | Magnitude: 1.93
+2019-02-08T01:57:09.740Z | 11km WSW of Ludlow, CA | Magnitude: 2.94
+2019-02-08T02:20:44.530Z | 6km SSW of Sherman Oaks, CA | Magnitude: 2.57
+2019-02-08T02:26:01.340Z | 12km W of Ludlow, CA | Magnitude: 1.61
+2019-02-08T02:53:26.210Z | 6km WNW of The Geysers, CA | Magnitude: 1.38
+2019-02-08T03:07:12.850Z | 8km NE of Aguanga, CA | Magnitude: 0.67
+2019-02-08T03:22:26.820Z | 6km SSE of Banning, CA | Magnitude: 0.67
+2019-02-08T03:24:38.270Z | 5km ENE of Mammoth Lakes, CA | Magnitude: 0.01
+2019-02-08T04:06:50.600Z | 12km W of Ludlow, CA | Magnitude: 2.49
+2019-02-08T04:08:09.060Z | 12km W of Ludlow, CA | Magnitude: 2.04
+2019-02-08T04:08:48.920Z | 12km W of Ludlow, CA | Magnitude: 1.44
+2019-02-08T04:09:23.690Z | 14km NNE of Mineral, CA | Magnitude: 1.59
+2019-02-08T04:15:29.860Z | 14km NNE of Mineral, CA | Magnitude: 0.92
+2019-02-08T04:24:29.860Z | 6km WNW of The Geysers, CA | Magnitude: 0.9
+2019-02-08T04:25:00.400Z | 20km ESE of Anza, CA | Magnitude: 0.55
+2019-02-08T04:27:15.110Z | 5km W of Cobb, CA | Magnitude: 0.39
+2019-02-08T04:34:09.880Z | 5km E of Mammoth Lakes, CA | Magnitude: 0.34
+2019-02-08T04:51:54.331Z | 28km NE of Yosemite Valley, California | Magnitude: 1.1
+2019-02-08T05:21:20.770Z | 7km NW of The Geysers, CA | Magnitude: 0.8
+2019-02-08T05:36:47.670Z | 11km NE of Aguanga, CA | Magnitude: 0.37
+2019-02-08T05:41:53.330Z | 11km SSW of Idyllwild, CA | Magnitude: 0.52
+2019-02-08T05:58:01.120Z | 5km E of Mammoth Lakes, CA | Magnitude: 0.25
+2019-02-08T06:09:30.340Z | 8km E of Borrego Springs, CA | Magnitude: 2.46
+2019-02-08T06:28:47.140Z | 11km ESE of North Shore, CA | Magnitude: 0.96
+2019-02-08T06:40:54.000Z | 6km W of Cobb, CA | Magnitude: 0.82
+2019-02-08T06:49:31.740Z | 23km NE of Pine Valley, CA | Magnitude: 0.97
+2019-02-08T07:07:34.240Z | 17km SW of La Jolla, CA | Magnitude: 1.56
+2019-02-08T07:11:59.950Z | 18km ESE of Anza, CA | Magnitude: 0.5
+2019-02-08T07:13:48.390Z | 17km ESE of Anza, CA | Magnitude: 0.48
+2019-02-08T08:19:27.790Z | 9km NE of Aguanga, CA | Magnitude: 0.27
+2019-02-08T08:19:41.950Z | 9km NE of Aguanga, CA | Magnitude: 0.98
+2019-02-08T08:54:55.870Z | 12km SSE of Big Bear Lake, CA | Magnitude: 1.09
+2019-02-08T09:11:56.760Z | 13km NNE of Mineral, CA | Magnitude: 0.14
+2019-02-08T09:13:38.460Z | 4km ENE of Mammoth Lakes, CA | Magnitude: 0.11
+2019-02-08T09:31:19.300Z | 9km NE of Aguanga, CA | Magnitude: 0.64
+2019-02-08T09:33:52.930Z | 17km ESE of Julian, CA | Magnitude: 0.5
+2019-02-08T09:37:29.210Z | 9km NE of Aguanga, CA | Magnitude: 0.86
+2019-02-08T10:03:33.540Z | 24km W of Coalinga, CA | Magnitude: 1.65
+2019-02-08T10:05:06.330Z | 10km SSW of San Ardo, CA | Magnitude: 1.03
+2019-02-08T10:21:37.640Z | 11km ENE of Mammoth Lakes, CA | Magnitude: 1.79
+2019-02-08T10:29:36.440Z | 5km NW of The Geysers, CA | Magnitude: 1.02
+2019-02-08T10:29:38.830Z | 30km W of Olancha, CA | Magnitude: 1.33
+2019-02-08T10:33:03.990Z | 15km SSW of Valle Vista, CA | Magnitude: 0.42
+2019-02-08T10:44:45.260Z | 7km NW of Anza, CA | Magnitude: 0.13
+2019-02-08T11:00:14.550Z | 9km WNW of Cobb, CA | Magnitude: 0.45
+2019-02-08T11:01:59.740Z | 5km NW of The Geysers, CA | Magnitude: 0.45
+2019-02-08T11:28:09.160Z | 12km ESE of Viola, CA | Magnitude: 0.27
+2019-02-08T11:39:56.680Z | 19km ESE of Anza, CA | Magnitude: 1.91
+2019-02-08T11:56:06.760Z | 19km SE of Bodfish, CA | Magnitude: 1.45
+2019-02-08T12:03:28.430Z | 14km NNE of Mineral, CA | Magnitude: 0.23
+2019-02-08T12:05:34.000Z | 10km NE of Aguanga, CA | Magnitude: 0.31
+2019-02-08T12:07:10.440Z | 19km SE of Bodfish, CA | Magnitude: 0.99
+2019-02-08T12:16:18.670Z | 5km W of Cobb, CA | Magnitude: 0.62
+2019-02-08T12:19:47.780Z | 12km W of Ludlow, CA | Magnitude: 1.54
+2019-02-08T12:20:54.810Z | 0km WNW of Beaumont, CA | Magnitude: 0.88
+2019-02-08T12:29:18.630Z | 22km NE of Pine Valley, CA | Magnitude: 0.84
+2019-02-08T12:34:32.390Z | 15km NNE of Mineral, CA | Magnitude: 0.03
+2019-02-08T12:38:38.610Z | 19km SE of Bodfish, CA | Magnitude: 1.19
+2019-02-08T12:39:00.830Z | 19km SE of Bodfish, CA | Magnitude: 1.02
+2019-02-08T12:50:52.180Z | 2km E of Mammoth Lakes, CA | Magnitude: 1.83
+2019-02-08T12:56:24.420Z | 2km E of Mammoth Lakes, CA | Magnitude: 0.4
+2019-02-08T12:58:45.030Z | 4km SE of Westmorland, CA | Magnitude: 1.12
+2019-02-08T13:03:31.520Z | 3km WSW of Anderson Springs, CA | Magnitude: 1.07
+2019-02-08T13:04:48.940Z | 31km W of Hayfork, CA | Magnitude: 1.86
+2019-02-08T13:14:23.270Z | 9km SSW of Borrego Springs, CA | Magnitude: 0.83
+2019-02-08T13:28:47.430Z | 8km WNW of The Geysers, CA | Magnitude: 0.31
+2019-02-08T13:55:54.460Z | 2km E of Mammoth Lakes, CA | Magnitude: 0.98
+2019-02-08T14:08:08.830Z | 2km E of Mammoth Lakes, CA | Magnitude: 0.71
+2019-02-08T14:11:01.580Z | 10km SW of Niland, CA | Magnitude: 2.27
+2019-02-08T14:13:04.510Z | 10km SW of Niland, CA | Magnitude: 1.55
+2019-02-08T14:23:08.770Z | 4km W of Cabazon, CA | Magnitude: 1.7
+2019-02-08T14:24:01.580Z | 7km NW of Anza, CA | Magnitude: 0.86
+2019-02-08T14:36:14.110Z | 5km WNW of Cobb, CA | Magnitude: 1.11
+2019-02-08T14:36:53.080Z | 10km SW of Niland, CA | Magnitude: 1.21
+2019-02-08T14:55:10.050Z | 12km W of Ludlow, CA | Magnitude: 1.94
+2019-02-08T15:03:36.540Z | 9km SSW of Tres Pinos, CA | Magnitude: 1.52
+2019-02-08T15:42:16.540Z | 12km W of Ludlow, CA | Magnitude: 1.65
+2019-02-08T15:58:20.540Z | 13km NNE of Mineral, CA | Magnitude: 0.21
+2019-02-08T16:05:22.270Z | 8km NW of The Geysers, CA | Magnitude: 1.01
+2019-02-08T17:00:12.060Z | 20km SE of Bodfish, CA | Magnitude: 2.14
+2019-02-08T17:00:27.810Z | 10km NE of Aguanga, CA | Magnitude: 0.63
+2019-02-08T17:00:51.300Z | 12km NNE of Montague, CA | Magnitude: 2.28
+2019-02-08T17:01:42.190Z | 11km NE of Aguanga, CA | Magnitude: 0.71
+2019-02-08T17:02:53.360Z | 17km ESE of Anza, CA | Magnitude: 1.65
+2019-02-08T17:03:21.020Z | 14km WSW of Toms Place, CA | Magnitude: 0.72
+2019-02-08T17:31:24.280Z | 25km S of Bodfish, CA | Magnitude: 1.37
+2019-02-08T17:34:39.650Z | 6km WNW of Cobb, CA | Magnitude: 0.39
+2019-02-08T17:36:46.650Z | 21km N of Borrego Springs, CA | Magnitude: 1.05
+2019-02-08T17:59:21.940Z | 25km ENE of Coso Junction, CA | Magnitude: -0.04
+2019-02-08T18:18:09.550Z | 9km N of Victorville, CA | Magnitude: 1.13
+2019-02-08T18:38:10.900Z | 6km SSW of Lytle Creek, CA | Magnitude: 0.95
+2019-02-08T18:44:20.210Z | 8km NE of Aguanga, CA | Magnitude: 1.77
+2019-02-08T18:55:22.015Z | 52km NE of Mammoth Lakes, California | Magnitude: 1
+2019-02-08T19:12:05.470Z | 47km NE of Holtville, CA | Magnitude: 1.54
+2019-02-08T19:54:39.690Z | 9km NE of Aguanga, CA | Magnitude: 0.23
+2019-02-08T19:56:04.370Z | 6km S of Mojave, CA | Magnitude: 1.58
+2019-02-08T20:11:37.070Z | 8km NE of Aguanga, CA | Magnitude: 1.06
+2019-02-08T20:32:51.680Z | 10km NE of Aguanga, CA | Magnitude: 0.68
+2019-02-08T20:36:19.780Z | 12km ENE of Cabazon, CA | Magnitude: 0.92
+2019-02-08T20:47:29.380Z | 18km N of Borrego Springs, CA | Magnitude: 2.27
+2019-02-08T21:03:42.080Z | 7km WSW of Niland, CA | Magnitude: 1.28
+2019-02-08T21:03:56.910Z | 8km ENE of Julian, CA | Magnitude: 1.31
+2019-02-08T21:05:22.710Z | 3km SE of Lake Henshaw, CA | Magnitude: 0.78
+2019-02-08T21:54:46.320Z | 2km E of Mammoth Lakes, CA | Magnitude: 0.96
+2019-02-08T22:14:45.810Z | 10km SW of Niland, CA | Magnitude: 1.63
+2019-02-08T22:33:35.520Z | 2km SSE of Home Gardens, CA | Magnitude: 1.47
+2019-02-08T22:41:26.780Z | 10km SW of Niland, CA | Magnitude: 2.31
+2019-02-08T22:54:22.540Z | 9km SW of Niland, CA | Magnitude: 1.49
+2019-02-08T22:56:46.810Z | 10km SW of Niland, CA | Magnitude: 1.38
+2019-02-08T22:58:09.120Z | 2km N of The Geysers, CA | Magnitude: 1.33
+2019-02-08T23:09:54.370Z | 9km NE of Aguanga, CA | Magnitude: 0.37
+2019-02-08T23:14:51.450Z | 7km WNW of The Geysers, CA | Magnitude: 1.76
+2019-02-08T23:16:32.710Z | 7km WSW of Pinon Hills, CA | Magnitude: 0.56
+2019-02-08T23:21:08.510Z | 6km WSW of Anza, CA | Magnitude: 0.84
+2019-02-08T23:40:39.520Z | 6km NNW of The Geysers, CA | Magnitude: 0.39
+2019-02-08T23:40:53.880Z | 3km NE of The Geysers, CA | Magnitude: 1.06
+2019-02-09T00:05:24.920Z | 6km NW of The Geysers, CA | Magnitude: 0.8
+2019-02-09T00:28:00.230Z | 9km NE of Aguanga, CA | Magnitude: 0.76
+2019-02-09T00:50:00.350Z | 5km SE of Loma Linda, CA | Magnitude: 0.72
+2019-02-09T01:24:56.310Z | 7km NW of The Geysers, CA | Magnitude: 1.11
+2019-02-09T01:31:07.620Z | 18km N of Borrego Springs, CA | Magnitude: 1.45
+2019-02-09T01:32:11.370Z | 9km NE of Aguanga, CA | Magnitude: 0.35
+2019-02-09T01:34:00.090Z | 1km WNW of Borrego Springs, CA | Magnitude: 1.02
+2019-02-09T02:03:56.590Z | 10km NW of The Geysers, CA | Magnitude: 0.55
+2019-02-09T02:29:13.700Z | 16km N of Borrego Springs, CA | Magnitude: 0.83
+2019-02-09T02:39:05.920Z | 15km SE of Mammoth Lakes, CA | Magnitude: 0.43
+2019-02-09T02:43:43.820Z | 14km SE of Mammoth Lakes, CA | Magnitude: 0.56
+2019-02-09T03:59:03.820Z | 5km WNW of The Geysers, CA | Magnitude: 0.85
+2019-02-09T04:01:49.900Z | 2km NNE of Fontana, CA | Magnitude: 1.44
+2019-02-09T04:38:59.730Z | 18km N of Borrego Springs, CA | Magnitude: 0.88
+2019-02-09T04:46:07.060Z | 2km N of Danville, CA | Magnitude: 1.38
+2019-02-09T05:05:39.070Z | 15km SE of Mammoth Lakes, CA | Magnitude: 1.68
+2019-02-09T06:29:34.690Z | 6km WNW of Cobb, CA | Magnitude: 0.89
+2019-02-09T06:59:42.930Z | 14km ESE of Big Bear City, CA | Magnitude: 1.65
+2019-02-09T07:09:01.150Z | 8km NNW of Borrego Springs, CA | Magnitude: 1.11
+2019-02-09T07:34:06.650Z | 5km WSW of Anza, CA | Magnitude: 0.58
+2019-02-09T07:36:20.120Z | 18km N of Borrego Springs, CA | Magnitude: 0.64
+2019-02-09T08:04:54.100Z | 8km NE of Aguanga, CA | Magnitude: 1.28
+2019-02-09T08:14:16.570Z | 8km E of Redwood Valley, CA | Magnitude: 1.57
+2019-02-09T08:37:32.060Z | 9km SSE of Warner Springs, CA | Magnitude: 0.41
+2019-02-09T08:51:42.090Z | 9km WNW of Cobb, CA | Magnitude: 0.74
+2019-02-09T08:55:19.610Z | 12km W of Ludlow, CA | Magnitude: 2.04
+2019-02-09T08:56:54.170Z | 3km ESE of The Geysers, CA | Magnitude: 1.38
+2019-02-09T09:24:23.750Z | 9km NE of Aguanga, CA | Magnitude: 0.89
+2019-02-09T09:31:57.890Z | 3km W of San Fernando, CA | Magnitude: 1.92
+2019-02-09T09:43:51.920Z | 10km NE of Aguanga, CA | Magnitude: 0.74
+2019-02-09T09:45:25.210Z | 10km NNW of Aguanga, CA | Magnitude: 0.43
+2019-02-09T10:01:24.730Z | 16km N of Ridgecrest, CA | Magnitude: 0.84
+2019-02-09T10:15:39.750Z | 3km ESE of Lake Henshaw, CA | Magnitude: 0.5
+2019-02-09T10:21:49.720Z | 17km ESE of Anza, CA | Magnitude: 1.03
+2019-02-09T10:32:32.020Z | 7km WNW of The Geysers, CA | Magnitude: 1.16
+2019-02-09T11:01:56.800Z | 1km SE of Lake Elsinore, CA | Magnitude: 1.25
+2019-02-09T11:02:08.000Z | 5km SSE of Rancho Cucamonga, CA | Magnitude: 0.95
+2019-02-09T11:16:21.410Z | 12km W of Ludlow, CA | Magnitude: 1.57
+2019-02-09T11:25:45.840Z | 12km W of Ludlow, CA | Magnitude: 1.16
+2019-02-09T12:40:25.880Z | 5km WSW of Anza, CA | Magnitude: 1.27
+2019-02-09T13:06:41.126Z | 8km SE of Chester, California | Magnitude: 1.3
+2019-02-09T13:24:47.980Z | 6km WNW of The Geysers, CA | Magnitude: 1.06
+2019-02-09T13:36:24.500Z | 8km N of Viola, CA | Magnitude: 1.79
+2019-02-09T13:39:09.670Z | 10km S of Idyllwild, CA | Magnitude: 1.26
+2019-02-09T13:48:27.740Z | 9km NW of The Geysers, CA | Magnitude: 0.56
+2019-02-09T14:02:47.300Z | 7km NW of The Geysers, CA | Magnitude: 1.14
+2019-02-09T14:12:57.050Z | 16km ESE of Anza, CA | Magnitude: 0.77
+2019-02-09T14:26:27.960Z | 6km WNW of The Geysers, CA | Magnitude: 0.9
+2019-02-09T15:46:46.300Z | 10km ESE of Mammoth Lakes, CA | Magnitude: 0.91
+2019-02-09T15:48:03.290Z | 5km SE of Fillmore, CA | Magnitude: 1.74
+2019-02-09T15:58:18.230Z | 14km NNE of Borrego Springs, CA | Magnitude: 0.83
+2019-02-09T16:03:31.700Z | 6km WNW of The Geysers, CA | Magnitude: 1.03
+2019-02-09T16:26:05.210Z | 13km N of Indio, CA | Magnitude: 1.55
+2019-02-09T16:39:26.920Z | 9km NE of Aguanga, CA | Magnitude: 0.95
+2019-02-09T17:06:46.980Z | 6km WSW of Gilroy, CA | Magnitude: 1.34
+2019-02-09T17:06:53.630Z | 5km WNW of Cobb, CA | Magnitude: 1.27
+2019-02-09T17:21:18.540Z | 7km NW of Montgomery Creek, CA | Magnitude: 2.86
+2019-02-09T17:34:12.740Z | 11km NE of Aguanga, CA | Magnitude: 0.36
+2019-02-09T18:41:51.690Z | 9km SW of Niland, CA | Magnitude: 1.49
+2019-02-09T18:44:23.770Z | 9km SW of Niland, CA | Magnitude: 1.12
+2019-02-09T19:09:45.730Z | 2km ENE of Granada Hills, CA | Magnitude: 1.24
+2019-02-09T19:18:21.990Z | 5km NNE of Banning, CA | Magnitude: 1.63
+2019-02-09T20:10:42.990Z | 14km E of Lake Isabella, CA | Magnitude: 1.47
+2019-02-09T20:30:06.860Z | 12km E of Blue Lake, CA | Magnitude: 2.92
+2019-02-09T20:39:18.960Z | 4km NNW of The Geysers, CA | Magnitude: 1.13
+2019-02-09T21:10:31.670Z | 15km ENE of Desert Hot Springs, CA | Magnitude: 0.84
+2019-02-09T21:15:23.050Z | 12km E of Desert Hot Springs, CA | Magnitude: 0.95
+2019-02-09T22:18:22.410Z | 16km ESE of Julian, CA | Magnitude: 0.8
+2019-02-09T22:20:10.280Z | 5km WNW of Cobb, CA | Magnitude: 1.77
+2019-02-09T23:01:48.810Z | 10km S of Idyllwild, CA | Magnitude: 0.77
+2019-02-09T23:02:05.140Z | 2km SE of Lake Henshaw, CA | Magnitude: 1.35
+2019-02-09T23:02:11.040Z | 4km WNW of The Geysers, CA | Magnitude: 1.15
+2019-02-09T23:04:45.530Z | 9km NW of The Geysers, CA | Magnitude: 1.05
+2019-02-09T23:24:55.180Z | 9km NE of Aguanga, CA | Magnitude: 1.42
+2019-02-09T23:28:45.780Z | 6km NNW of Anza, CA | Magnitude: 0.59
+2019-02-09T23:48:45.440Z | 9km NNE of Borrego Springs, CA | Magnitude: 1.78
+2019-02-09T23:53:20.230Z | 2km SE of Lake Henshaw, CA | Magnitude: 0.82
+2019-02-10T00:27:44.620Z | 14km N of Castaic, CA | Magnitude: 1.77
+2019-02-10T00:30:54.510Z | 25km NNW of San Simeon, CA | Magnitude: 2.53
+2019-02-10T00:42:44.720Z | 11km N of Castaic, CA | Magnitude: 1.37
+2019-02-10T01:30:21.330Z | 6km NNW of Valley Center, CA | Magnitude: 0.78
+2019-02-10T02:23:05.020Z | 1km ENE of Alamo, CA | Magnitude: 1.6
+2019-02-10T02:36:55.630Z | 2km SE of The Geysers, CA | Magnitude: 1.44
+2019-02-10T02:43:41.680Z | 2km ESE of Good Hope, CA | Magnitude: 1.27
+2019-02-10T02:43:48.810Z | 9km NE of Aguanga, CA | Magnitude: 0.9
+2019-02-10T02:52:00.330Z | 3km W of Cabazon, CA | Magnitude: 0.75
+2019-02-10T02:58:12.140Z | 9km NE of Aguanga, CA | Magnitude: 0.42
+2019-02-10T03:18:17.310Z | 9km NE of Aguanga, CA | Magnitude: 0.83
+2019-02-10T03:20:35.710Z | 10km NE of Aguanga, CA | Magnitude: 0.66
+2019-02-10T03:21:34.110Z | 9km NE of Aguanga, CA | Magnitude: 0.56
+2019-02-10T03:22:51.660Z | 5km SE of Warner Springs, CA | Magnitude: 0.73
+2019-02-10T03:46:05.600Z | 9km NE of Aguanga, CA | Magnitude: 0.97
+2019-02-10T04:29:27.710Z | 12km W of Ludlow, CA | Magnitude: 2.83
+2019-02-10T04:34:15.770Z | 11km ESE of Ocotillo Wells, CA | Magnitude: 0.87
+2019-02-10T05:05:56.760Z | 24km N of Santa Barbara Is., CA | Magnitude: 2.09
+2019-02-10T05:22:18.660Z | 12km W of Ludlow, CA | Magnitude: 1.46
+2019-02-10T05:28:07.960Z | 12km W of Ludlow, CA | Magnitude: 1.55
+2019-02-10T05:36:44.980Z | 14km ENE of San Simeon, CA | Magnitude: 2.03
+2019-02-10T05:49:54.130Z | 10km NE of Aguanga, CA | Magnitude: 0.85
+2019-02-10T06:31:13.370Z | 2km NNW of Aguanga, CA | Magnitude: 1.13
+2019-02-10T07:06:15.810Z | 8km NW of The Geysers, CA | Magnitude: 1.06
+2019-02-10T07:28:57.430Z | 17km S of Port Hueneme, CA | Magnitude: 2.04
+2019-02-10T08:01:32.950Z | 6km W of Cobb, CA | Magnitude: 1.06
+2019-02-10T08:37:47.720Z | 10km SSE of Idyllwild, CA | Magnitude: 1.32
+2019-02-10T08:49:21.450Z | 6km SE of Valle Vista, CA | Magnitude: 1.8
+2019-02-10T09:10:02.130Z | 21km NNW of Borrego Springs, CA | Magnitude: 0.75
+2019-02-10T09:29:18.740Z | 6km NW of Parkfield, CA | Magnitude: 1.2
+2019-02-10T09:33:49.160Z | 8km NNW of Julian, CA | Magnitude: 0.61
+2019-02-10T09:41:42.190Z | 3km ESE of Lake Henshaw, CA | Magnitude: 1.22
+2019-02-10T09:43:13.830Z | 10km NW of Calipatria, CA | Magnitude: 2.05
+2019-02-10T09:46:54.770Z | 15km E of Seven Trees, CA | Magnitude: 1.96
+2019-02-10T09:58:59.960Z | 23km E of Little Lake, CA | Magnitude: 0.93
+2019-02-10T10:37:52.180Z | 10km SW of Niland, CA | Magnitude: 1.45
+2019-02-10T10:45:27.220Z | 30km ENE of Little Lake, CA | Magnitude: 0.64
+2019-02-10T10:46:27.240Z | 6km SSE of Mentone, CA | Magnitude: 0.9
+2019-02-10T11:05:14.060Z | 12km W of Ludlow, CA | Magnitude: 1.16
+2019-02-10T11:48:49.580Z | 2km ESE of Mammoth Lakes, CA | Magnitude: 0.76
+2019-02-10T12:00:27.430Z | 2km NE of Pinnacles, CA | Magnitude: 2.22
+2019-02-10T12:09:55.530Z | 24km E of San Ardo, CA | Magnitude: 2.54
+2019-02-10T12:42:05.580Z | 23km NW of Parkfield, CA | Magnitude: 1.67
+2019-02-10T12:56:38.420Z | 11km SSW of Joshua Tree, CA | Magnitude: 1.02
+2019-02-10T13:33:21.840Z | 22km N of Borrego Springs, CA | Magnitude: 0.58
+2019-02-10T13:45:29.330Z | 22km N of Borrego Springs, CA | Magnitude: 0.8
+2019-02-10T14:02:14.600Z | 12km S of Tres Pinos, CA | Magnitude: 2.28
+2019-02-10T14:04:01.100Z | 15km ENE of Borrego Springs, CA | Magnitude: 0.95
+2019-02-10T14:08:12.040Z | 9km NE of Aguanga, CA | Magnitude: 0.42
+2019-02-10T14:35:57.070Z | 9km NE of Aguanga, CA | Magnitude: 0.42
+2019-02-10T15:27:23.700Z | 9km NE of Aguanga, CA | Magnitude: 0.6
+2019-02-10T15:32:11.550Z | 2km NE of The Geysers, CA | Magnitude: 0.86
+2019-02-10T15:42:54.525Z | 16km N of Dixon Lane-Meadow Creek, California | Magnitude: 1.3
+2019-02-10T16:21:01.260Z | 8km NE of Aguanga, CA | Magnitude: 1.63
+2019-02-10T17:11:11.010Z | 11km NE of Aguanga, CA | Magnitude: 0.37
+2019-02-10T17:12:24.020Z | 8km SE of Valle Vista, CA | Magnitude: 3.56
+2019-02-10T17:16:01.810Z | 6km ESE of Valle Vista, CA | Magnitude: 1
+2019-02-10T17:20:01.740Z | 6km ESE of Valle Vista, CA | Magnitude: 1.14
+2019-02-10T17:45:31.630Z | 14km N of Castaic, CA | Magnitude: 2.74
+2019-02-10T17:49:18.740Z | 14km NNW of Pinnacles, CA | Magnitude: 1.84
+2019-02-10T18:25:55.110Z | 11km SW of Ocotillo Wells, CA | Magnitude: 1.26
+2019-02-10T18:29:48.230Z | 3km NE of The Geysers, CA | Magnitude: 1.36
+2019-02-10T18:51:27.380Z | 9km NW of Fallbrook, CA | Magnitude: 1.38
+2019-02-10T19:41:41.080Z | 9km NE of Aguanga, CA | Magnitude: 0.81
+2019-02-10T20:38:57.520Z | 9km NE of Aguanga, CA | Magnitude: 1.01
+2019-02-10T21:36:47.720Z | 4km ESE of Berkeley, CA | Magnitude: 0.73
+2019-02-10T21:55:05.720Z | 6km S of Mentone, CA | Magnitude: 2.12
+2019-02-10T22:05:19.860Z | 23km WNW of Bridgeport, California | Magnitude: 1.4
+2019-02-10T23:07:48.260Z | 9km NE of Aguanga, CA | Magnitude: 1.06
+2019-02-10T23:22:52.780Z | 6km W of Cobb, CA | Magnitude: 1.48
+2019-02-10T23:57:08.080Z | 16km SE of Anza, CA | Magnitude: 0.89
+2019-02-11T00:25:48.190Z | 17km ESE of Julian, CA | Magnitude: 1.25
+2019-02-11T01:39:55.950Z | 14km NE of Julian, CA | Magnitude: 1.12
