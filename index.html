@@ -8,13 +8,47 @@
 <body>
   <div class="wrapper">
     <div class="text-container" id="output">
-       Click button to generate output.
+       README
+       *************
+
+       Two solutions have been provided to the problem.
+       This webpage demonstrates the Javascript solution, and also links to a Ruby solution
+       which can be ran in a terminal. A link to the project on GitHub can be found below as well.
+
+       JS Solution:
+       ------------------
+       To run the demo press the "Generate JS Output" button below.
+       You can then download the generated output by pressing the "Download JS Output" button.
+
+       Notes:
+       The time zone of the timestamp is set to zero offset UTC, as the example
+       output required. It is represented by Z instead of +00:00 at the end of the string.
+       The ruby solution matches the example output exactly using +00:00.
+
+       Ruby Solution:
+       --------------------
+       To run the ruby script, press the "Download Ruby Solution". The command "ruby script.rb"
+       will run the script and generate an output file "ruby-output.txt". To view the ruby
+       code you can press the "View Ruby Solution" button.
+
+       Things I didn't get to:
+       ----------------------------
+       Both scripts will crash ungracefully if the data is missing one of desired fields.
+       This could be easily fixed by checking for nil values.
+
+       Both scripts can use some performance improvements. In the ruby script I iterate over the
+       data once, then sort it (another iteration), and finally I iterate again to construct
+       the output string. This can be improved by matching and storing the matches in a minimum
+       heap (where the timestamp is used for comparison). This way we save one iteration over the
+       data points, and enjoy a O(1) removal from the heap when constructing the output string.
     </div>
     <div class="button-container">
-      <a class="button" id="generate-output">Generate Output</a>
-      <a class="button" id="download-output">Download Output</a>
-      <a class="button" href="ruby-solution.rb" download="ruby-solution.rb">Download Ruby Solution</a>
-      <a class="button" href="https://github.com/shukerov/shukerov.github.io">GitHub repo</a>
+      <a class="button" id="generate-output">Generate JS Output</a>
+      <a class="button" id="download-output">Download JS Output</a>
+      <a class="button" href="https://github.com/shukerov/shukerov.github.io/blob/master/script.js">View JS Solution</a>
+      <a class="button" href="https://github.com/shukerov/shukerov.github.io/blob/master/script.rb">View Ruby Solution</a>
+      <a class="button" href="script.rb" download="script.rb">Download Ruby Solution</a>
+      <a class="button" href="https://github.com/shukerov/shukerov.github.io">GitHub Repo</a>
     </div>
   </div>
 </body>
