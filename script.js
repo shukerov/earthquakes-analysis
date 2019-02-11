@@ -3,8 +3,14 @@ features = [];
 
 // fetch JSON data
 fetch(endpoint)
-   .then(blob => blob.json())
-   .then(data => features.push(...data.features));
+   .then(response => {
+      if (response.status === 200) {
+         response.json().then(data => features.push(...data.features));
+      } else {
+         textArea.innerHTML = "Whoops something went wrong with the API endpoint";
+         throw new Error("Could not fetch all_week.geojson");
+      }
+})
 
 // finds matches in the place attribute of the JSON features
 // returns features that match the wordToMatch string
