@@ -1,0 +1,31 @@
+{
+  "name": "earthquakes",
+  "version": "1.0.0",
+  "description": "Static website, created for fun that will display some earthquake data.",
+  "main": "script.js",
+  "dependencies": {
+    "chart.js": "^2.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shukerov/shukerov.github.io.git"
+  },
+  "keywords": [
+    "earthquake",
+    "static",
+    "website",
+    "learning",
+    "open",
+    "source"
+  ],
+  "author": "Stoyan Shukerov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shukerov/shukerov.github.io/issues"
+  },
+  "homepage": "https://github.com/shukerov/shukerov.github.io#readme"
+}
